@@ -85,4 +85,4 @@ git commit -m "chore: init learning-journey repository with stage structure"
 ## 下一步
 进入**阶段 1：Web 基础三件套 + React 入门**
 - 目录：`~/learning-journey/stage-1-web-basics/`
-- 第一个任务：创建语义化 HTML 简历页面
+- 第一个任务：创建语义化 HTML 简历页面- 练习 Git 工作流完成于 2026-11-22
